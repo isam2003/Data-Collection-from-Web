@@ -1,5 +1,5 @@
-# Web-Scraping
-Simple tools for Data Collection from the Web
+# Getting Started with Web-Scraping
+A simple tool for Data Collection from the Web
 
 # html_pdf_url_extractor
 This code mimics the Google search engine by accepting user inputs regarding search terms, no of urls to be included in the search output as well as a filename.  
