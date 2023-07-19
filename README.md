@@ -1,4 +1,4 @@
-# Getting Started with Web-Scraping
+# Getting Started with Data Collection
 A simple tool for Data Collection from the Web
 
 # html_pdf_url_extractor
